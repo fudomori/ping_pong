@@ -7,6 +7,7 @@
 #define WIN_SCORE 21
 
 
+
 void printField(int player_one_racket, int player_two_racket, int ball_x, int ball_y,
                 int player_one_score, int player_two_score);
 
